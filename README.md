@@ -6,11 +6,17 @@ Se recogen aquí todos los scripts y el código generado durante el desarrollo d
 La información estaría dividida de la siguiente forma:
 
 •	Datasets:
+
 df_result_english: dataset con todos los registros en inglés.
+
 df_result_spanish: dataset con todos los registros en español.
+
 df_result_english_neutral: dataset con registros en inglés con el mismo número de registros con sentimiento positivo, negativo y neutro.
+
 df_result_spanish_neutral: dataset con registros en español con el mismo número de registros con sentimiento positivo, negativo y neutro.
+
 df_result_english_noNeutral: dataset con registros en inglés con el mismo número de registros con sentimiento positivo y negativo. No hay registros con sentimiento neutro.
+
 df_result_spanish_noNeutral: dataset con registros en español con el mismo número de registros con sentimiento positivo y negativo. No hay registros con sentimiento neutro.
 
 •	Scripts:

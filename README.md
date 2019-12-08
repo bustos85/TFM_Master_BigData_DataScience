@@ -1,7 +1,7 @@
 # TFM_Master_BigData_DataScience
 TFM Master Big Data y Data Science
 
-Se recogen aquí todos los scripts y el código generado durante el desarrollo del trabajo. 
+Se recogen aquí todos los scripts y el código generado durante el desarrollo del trabajo. También está el documento pdf correspondiente al trabajo realizado: "TFM-JoséManuel_BustosMuñoz".
 
 La información estaría dividida de la siguiente forma:
 
